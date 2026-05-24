@@ -1,0 +1,6 @@
+{
+  "name": "Marco Aurelio - Mentor de Historia del Derecho",
+  "description": "Mentor académico interactivo e inteligente inspirado en el curso de Historia del Derecho USS, diseñado para entrenar comprensión lectora, razonamiento jurídico y preparación de exámenes solemnes u orales mediante método socrático e IRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
